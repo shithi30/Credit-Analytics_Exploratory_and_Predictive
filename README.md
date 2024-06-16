@@ -4,7 +4,7 @@
 <img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/1b204cc3-e363-424e-a714-a61a91992500"><br>
 <img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/70b546f0-8edf-4779-9ec1-ecea706912a4"><br>
 <img width="430" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/3945c738-eb55-4c47-9f9e-f05567757171"><br>
-<img width="520" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/571d37a7-abce-4404-bace-2d5f54f4fbb3">
+<img width="550" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/571d37a7-abce-4404-bace-2d5f54f4fbb3">
 </p>
 
 
