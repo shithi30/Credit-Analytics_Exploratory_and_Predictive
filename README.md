@@ -1,4 +1,4 @@
-The terms *Tally, Baki, Pawna, Tagada, Dilam/Pelam* - all refer to credit sale/purchase transactions. 
+The terms *Tally, Baki, Pawna, Tagada, Dilam/Pelam* - all refer to credit sale/purchase activities. 
 These tendencies have been extrapolated by TallyKhata Digital Credit (TKDC) team to identify creditworthy merchants.
 - How TK-app usage data identified power (also, churning) users, can be found [here](https://github.com/shithi30/Churn_Prediction_NeuralNets).
 - How textual data (shop names, supplier names, descriptions) helped identify business types, [here](https://github.com/shithi30/Prediction_of_Missing_BizTypes_NLP).
