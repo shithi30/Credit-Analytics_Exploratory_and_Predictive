@@ -3,7 +3,7 @@ These tendencies have been extrapolated by TallyKhata Digital Credit (TKDC) team
 - How TK-app usage data identified power (also, churning) users, can be found [here](https://github.com/shithi30/Churn_Prediction_NeuralNets).
 - How textual data (shop names, supplier names, descriptions) helped identify business types, [here](https://github.com/shithi30/Prediction_of_Missing_BizTypes_NLP).
 
-**Tech Stack:** Database System - `PostgreSQL` , Language - `Python` , ML Libraries - `TensorFlow` , Visualization - `GSheet`<br><br>
+**Tech Stack:** Database System - `PostgreSQL` , Language - `Python` , ML Libraries - `TensorFlow` , Charts/Viz - `GSheet`<br><br>
 
 <p align="center">
 <img width="500" alt="fl1" src="https://github.com/shithi30/shithi30/assets/43873081/97d5e2c0-d001-4e5c-87a3-696b225b9e91"><br>
